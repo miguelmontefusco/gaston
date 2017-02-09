@@ -1,0 +1,83 @@
+.sme-social-follow {
+  display: table; }
+  .sme-social-follow ul {
+    display: block; }
+    .sme-social-follow ul li {
+      display: inline-block; }
+      .sme-social-follow ul li a {
+        color: #fff;
+        background: #222;
+        width: 24px;
+        height: 24px;
+        display: block;
+        text-align: center;
+        border-radius: 4px;
+        font-size: 12px;
+        line-height: 22px;
+        border-color: #222;
+        border: 1px solid; }
+        .sme-social-follow ul li a:hover {
+          background: #555555; }
+  .sme-social-follow.right {
+    float: right; }
+  .sme-social-follow.medium a {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    line-height: 30px; }
+  .sme-social-follow.large a {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+    line-height: 46px; }
+  .sme-social-follow.xlarge a {
+    width: 64px;
+    height: 64px;
+    font-size: 32px;
+    line-height: 62px; }
+  .sme-social-follow.light a {
+    background: #fff;
+    color: #222;
+    border: 1px solid; }
+    .sme-social-follow.light a:hover {
+      background: #e6e6e6; }
+  .sme-social-follow.dark a {
+    background: #222;
+    color: #fff;
+    border: 1px solid;
+    border-color: #222; }
+    .sme-social-follow.dark a:hover {
+      background: #555555; }
+  .sme-social-follow.square a {
+    border-radius: 0px; }
+  .sme-social-follow.square.light a {
+    background: #fff;
+    color: #222;
+    border: 1px solid; }
+    .sme-social-follow.square.light a:hover {
+      background: #e6e6e6; }
+  .sme-social-follow.square.dark a {
+    background: #222;
+    color: #fff;
+    border: 1px solid;
+    border-color: #222; }
+    .sme-social-follow.square.dark a:hover {
+      background: #555555; }
+  .sme-social-follow.circle a {
+    border: 1px solid;
+    border-radius: 100%; }
+  .sme-social-follow.circle.light a {
+    background: #fff;
+    color: #222;
+    border: 1px solid; }
+    .sme-social-follow.circle.light a:hover {
+      background: #e6e6e6; }
+  .sme-social-follow.circle.dark a {
+    background: #222;
+    color: #fff;
+    border: 1px solid;
+    border-color: #222; }
+    .sme-social-follow.circle.dark a:hover {
+      background: #555555; }
+
+/*# sourceMappingURL=style.css.map */

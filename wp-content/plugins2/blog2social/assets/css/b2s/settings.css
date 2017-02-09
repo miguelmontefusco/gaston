@@ -1,0 +1,59 @@
+/*Custom*/
+@media(max-width: 767px) {
+    .form-inline {
+        display: none;
+    }
+    .filterHide {
+        display: none;
+    }
+    .form-inline button { 
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+.error{
+    border: 1px solid #FF0000 !important;
+}
+
+.b2s-box-sched-time-input{
+    width: 90px !important;
+}
+.b2s-box-sched-time-area{
+    margin-left: 100px;
+}
+.b2s-box-sched-time-area-label{
+    font-size: 12px;
+    margin-bottom: 1px !important;
+    font-weight: 600;
+}
+.b2s-settings-sched-time-info{
+    margin-top: 30px;
+    font-size: 13px;
+    font-style:italic;
+    color: #adadad;
+}
+
+.nav > li > a{
+    padding: 10px 15px !important;
+}
+
+hr{
+    margin-top: 0px!important;
+}
+
+
+.b2s-user-network-settings-post-format-area label > input{ 
+    visibility: hidden; 
+    position: absolute; 
+}
+.b2s-user-network-settings-post-format-area label > input + img{ 
+    cursor:pointer;
+    border:2px solid transparent;
+}
+.b2s-user-network-settings-post-format-area label > input:checked + img{ 
+    border:3px solid #79b232;
+}
+
+.b2s-display-inline{
+       display: inline !important;
+}
